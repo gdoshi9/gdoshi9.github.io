@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Job Market Paper"
+title: ""
 permalink: /jmp/
 author_profile: true
 ---
 ## Wiring America: The Short- and Long-Run Effects of Electricity Grid Expansion 
-<!-- ### Job Market Paper -->
+### Job Market Paper
 [[WP Version](/files/JMP_Draft_GD.pdf){:target="_blank"}] [[Slides (15/20 minutes)](/files/EMEE_2021.pdf){:target="_blank"}] <br/>
 
 <details><summary>Abstract</summary>
